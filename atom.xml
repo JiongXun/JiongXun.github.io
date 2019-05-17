@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  <subtitle>Unprofessional</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-05-17T12:26:08.819Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>JiongXun</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>lesson1</title>
+    <link href="http://yoursite.com/2019/05/17/lesson1/"/>
+    <id>http://yoursite.com/2019/05/17/lesson1/</id>
+    <published>2019-05-17T12:25:53.000Z</published>
+    <updated>2019-05-17T12:26:08.819Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="챕터-1"><a href="#챕터-1" class="headerlink" title="챕터 1"></a>챕터 1</h1><h2 id="注音符號-알파벳-ㄓㄨˋ-ㄧㄣ-ㄈㄨˊ-ㄏㄠˋ"><a href="#注音符號-알파벳-ㄓㄨˋ-ㄧㄣ-ㄈㄨˊ-ㄏㄠˋ" class="headerlink" title="注音符號   알파벳   ㄓㄨˋ ㄧㄣ ㄈㄨˊ ㄏㄠˋ"></a>注音符號   알파벳   ㄓㄨˋ ㄧㄣ ㄈㄨˊ ㄏㄠˋ</h2><ul><li>2행은 중국어 의 알파벳</li><li>3행은 비슷한 한글 발음 </li><li>4행은 보충 설명</li></ul><table><thead><tr><th></th><th>注音符號</th><th>발음</th><th>도움이 될 것 같아요</th></tr></thead><tbody><tr><td>1.</td><td>ㄅ</td><td>ㅂ</td><td></td></tr><tr><td>2.</td><td>ㄆ</td><td>ㅍ</td><td></td></tr><tr><td>3.</td><td>ㄇ</td><td>ㅁ</td><td></td></tr><tr><td>4.</td><td>ㄈ</td><td>f</td><td></td></tr><tr><td>5.</td><td>ㄉ</td><td>ㄷ</td><td></td></tr><tr><td>6.</td><td>ㄊ</td><td>ㅌ</td><td></td></tr><tr><td>7.</td><td>ㄋ</td><td>ㄴ</td><td></td></tr><tr><td>8.</td><td>ㄌ</td><td>ㄹ</td><td></td></tr><tr><td>9.</td><td>ㄍ</td><td>ㄱ</td><td></td></tr><tr><td>10.</td><td>ㄎ</td><td>ㅋ</td><td></td></tr><tr><td>11.</td><td>ㄏ</td><td>ㅎ</td><td></td></tr><tr><td>12.</td><td>ㄐ</td><td>ㅈ</td><td></td></tr><tr><td>13.</td><td>ㄑ</td><td>ch’</td><td>미친 의 친 = [ㄑ,ㄧ,ㄥˋ] , [ㄑ,ㅣ,eng]</td></tr><tr><td>14.</td><td>ㄒ</td><td>시</td><td></td></tr><tr><td>15.</td><td>ㄓ</td><td>zhi</td><td>지</td></tr><tr><td>16.</td><td>ㄔ</td><td>chi</td><td>吃(ㄔ ) 먹는다</td></tr><tr><td>17.</td><td>ㄕ</td><td>shi</td><td>獅子(ㄕ ㄗ˙) 사자 , 子 의미 없어요</td></tr><tr><td>18.</td><td>ㄖ</td><td>ri</td><td>日子(ㄖˋ ㄗ˙) 날일 의 일 , 子 의미 없어요</td></tr><tr><td>19.</td><td>ㄗ</td><td>zi</td><td>自在(ㄗˋ ㄗㄞˋ)편안한</td></tr><tr><td>20.</td><td>ㄘ</td><td>ㅊ</td><td></td></tr><tr><td>21.</td><td>ㄙ</td><td>스</td><td></td></tr><tr><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>22.</td><td>ㄧ</td><td>ㅣ</td><td></td></tr><tr><td>23.</td><td>ㄨ</td><td>ㅜ</td><td></td></tr><tr><td>24.</td><td>ㄩ</td><td>ㅠ</td><td></td></tr><tr><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>25.</td><td>ㄚ</td><td>ㅏ</td><td></td></tr><tr><td>26.</td><td>ㄛ</td><td>ㅓ</td><td></td></tr><tr><td>27.</td><td>ㄜ</td><td>ㅡ</td><td></td></tr><tr><td>28.</td><td>ㄝ</td><td>ㅔ</td><td></td></tr><tr><td>29.</td><td>ㄞ</td><td>ㅏ+ㅣ</td><td></td></tr><tr><td>30.</td><td>ㄟ</td><td>ㅐ</td><td></td></tr><tr><td>31.</td><td>ㄠ</td><td>ㅏ+ㅜ</td><td></td></tr><tr><td>32.</td><td>ㄡ</td><td>ㅗ</td><td></td></tr><tr><td>33.</td><td>ㄢ</td><td>ㅏ+ㄴ</td><td></td></tr><tr><td>34.</td><td>ㄣ</td><td>ㅡ+ㄴ</td><td></td></tr><tr><td>35.</td><td>ㄤ</td><td>ang</td><td>羊(ㄧㄤˊ)양 ,ㄤ = 받침ㅇ</td></tr><tr><td>36.</td><td>ㄥ</td><td>eng</td><td>미친 의 친 = [ㄑ,ㄧ,ㄥˋ] , [ㄑ,ㅣ,eng] ,ㄥ = 받침ㄴ</td></tr><tr><td>37.</td><td>ㄦ</td><td>er</td><td>Faker , Maker , er</td></tr></tbody></table><p>영어 발음이 여기에서 더 좋습니다 : <a href="https://translate.google.com/#view=home&amp;op=translate&amp;sl=zh-CN&amp;tl=ko&amp;text=%E3%84%91" target="_blank" rel="noopener">https://translate.google.com/#view=home&amp;op=translate&amp;sl=zh-CN&amp;tl=ko&amp;text=%E3%84%91</a></p><p>중국어 =&gt; 알파벳 변환기 : <a href="https://app.intcome.com/public/jy" target="_blank" rel="noopener">https://app.intcome.com/public/jy</a></p><p>알파벳 발음: <a href="https://www.mdnkids.com/BoPoMo/" target="_blank" rel="noopener">https://www.mdnkids.com/BoPoMo/</a></p><hr><h2 id="發聲-ㄈㄚ-ㄕㄥ-어조"><a href="#發聲-ㄈㄚ-ㄕㄥ-어조" class="headerlink" title="發聲(ㄈㄚ ㄕㄥ)(어조)"></a>發聲(ㄈㄚ ㄕㄥ)(어조)</h2><table><thead><tr><th>發聲(ㄈㄚ ㄕㄥ)(어조)</th><th>..</th></tr></thead><tbody><tr><td>一聲(ㄧ ㄕㄥ) =&gt; (   )</td><td>→</td></tr><tr><td>二聲(ㄦˋ ㄕㄥ) =&gt; ( ˊ )</td><td>↗</td></tr><tr><td>三聲(ㄙㄢ ㄕㄥ) =&gt; ( ˇ )</td><td>↘↗</td></tr><tr><td>四聲(ㄙˋ ㄕㄥ) =&gt; ( ˋ )</td><td>↘</td></tr><tr><td>輕聲(ㄑㄧㄥ ㄕㄥ) =&gt; ( ˙ )</td><td>ㅂ -&gt; ㅃ (짧게 하세요)</td></tr></tbody></table><hr><h2 id="範例-ㄈㄢˋ-ㄌㄧˋ-예"><a href="#範例-ㄈㄢˋ-ㄌㄧˋ-예" class="headerlink" title="範例 (ㄈㄢˋ ㄌㄧˋ) 예"></a>範例 (ㄈㄢˋ ㄌㄧˋ) 예</h2><table><thead><tr><th>中文(ㄓㄨㄥ ㄨㄣˊ)중국어</th><th>注音(ㄓㄨˋ ㄧㄣ)알파벳</th><th>發音(ㄈㄚ ㄧㄣ)발음</th><th>韓文(ㄏㄢˊ ㄨㄣˊ)한국어</th></tr></thead><tbody><tr><td>你好嗎</td><td>ㄋㄧˇ , ㄏㄠˇ ,ㄇㄚ˙</td><td>니 , 하ㅜ ,마</td><td>안녕하세요</td></tr><tr><td>謝謝你的訂閱</td><td>ㄒㄧㄝˋ , ㄒㄧㄝˋ , ㄋㄧˇ , ㄉㄜ˙ , ㄉㄧㄥˋ , ㄩㄝˋ</td><td>시ㅔ , 시ㅔ , 니 , 드 , 디eng , ㅠㅔ</td><td>너의 구돔 감사합니다</td></tr><tr><td>謝謝你的追隨</td><td>ㄒㄧㄝˋ , ㄒㄧㄝˋ , ㄋㄧˇ , ㄉㄜ˙ , ㄓㄨㄟ  , ㄙㄨㄟˊ</td><td>시ㅔ , 시ㅔ , 니 , 드 , zhiㅜㅐ , 스ㅜㅐ</td><td>너의 팔로우 감사합니다</td></tr></tbody></table><hr><h4 id="알파벳이-일반적으로-세로-쓰기"><a href="#알파벳이-일반적으로-세로-쓰기" class="headerlink" title="알파벳이 일반적으로 세로 쓰기"></a>알파벳이 일반적으로 세로 쓰기</h4><p><img src="/images/ex1.png" alt title="你好嗎"><br><img src="/images/ex2.png" alt title="謝謝你的訂閱"></p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;챕터-1&quot;&gt;&lt;a href=&quot;#챕터-1&quot; class=&quot;headerlink&quot; title=&quot;챕터 1&quot;&gt;&lt;/a&gt;챕터 1&lt;/h1&gt;&lt;h2 id=&quot;注音符號-알파벳-ㄓㄨˋ-ㄧㄣ-ㄈㄨˊ-ㄏㄠˋ&quot;&gt;&lt;a href=&quot;#注音符號-알파벳-ㄓㄨˋ-ㄧㄣ-ㄈㄨˊ-ㄏㄠ
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>lesson3</title>
+    <link href="http://yoursite.com/2019/05/17/lesson3/"/>
+    <id>http://yoursite.com/2019/05/17/lesson3/</id>
+    <published>2019-05-17T12:24:44.000Z</published>
+    <updated>2019-05-17T12:25:31.643Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="챕터-3"><a href="#챕터-3" class="headerlink" title="챕터 3"></a>챕터 3</h1><h2 id="單字-ㄉㄢ-ㄗˋ-단어"><a href="#單字-ㄉㄢ-ㄗˋ-단어" class="headerlink" title="單字(ㄉㄢ ㄗˋ)  단어"></a>單字(ㄉㄢ ㄗˋ)  단어</h2><table><thead><tr><th>한국어</th><th>中文</th><th>보충하기</th></tr></thead><tbody><tr><td>음식</td><td>食物(ㄕˊ ㄨˋ)</td><td></td></tr><tr><td>케이크</td><td>蛋糕(ㄉㄢˋ ㄍㄠ )</td><td></td></tr><tr><td>한국어</td><td>韓文(ㄏㄢˊ ㄨㄣˊ)</td><td></td></tr><tr><td>영어</td><td>英文(ㄧㄥ ㄨㄣˊ)</td><td></td></tr><tr><td>손가락</td><td>手指(ㄕㄡˇ ㄓˇ)</td><td></td></tr><tr><td>귀</td><td>耳(ㄦˇ),耳朵(ㄦˇ ㄉㄨㄛ˙)</td><td>朵는 의미 없어요.그렇지만 일반적으로 귀가 耳朵 라고해요.</td></tr><tr><td>팔</td><td>腳(ㄐㄧㄠˇ)</td><td></td></tr><tr><td>눈</td><td>眼睛(一ㄢˇ ㄐㄧㄥ ),眼(一ㄢˇ)</td><td>眼가과 睛가 다 눈 뜻이에요. 근대 睛 거의 단독으로 사용하지 않습니다</td></tr><tr><td>입</td><td>嘴(ㄗㄨㄟˇ),嘴巴(ㄗㄨㄟˇ ㄅㄚ),口(ㄎㄡˇ)</td><td>한입만! 吃一口就好! (ㄔ , ㄧ , ㄎㄡˇ , ㄐㄧㄡˋ , ㄏㄠˇ)</td></tr><tr><td>배</td><td>肚子(ㄉㄨˋ ㄗ˙),肚(ㄉㄨˋ)</td><td>子는 의미 없어요.그렇지만 일반적으로 배가 肚子 라고해요.</td></tr><tr><td>우리</td><td>我們(ㄨㄛˇ ㄇㄣˊ)</td><td></td></tr><tr><td>관리하다</td><td>管理(ㄍㄨㄢˇ ㄌ一ˇ),管(ㄍㄨㄢˇ)</td><td>管理가 조직,팀 이렇는것한테 사용해요. 管가 사람,것을 이렇는것한테 사용해요.</td></tr><tr><td>좋다</td><td>喜歡(ㄒㄧˇ ㄏㄨㄢ)</td><td></td></tr></tbody></table><h3 id="좋다"><a href="#좋다" class="headerlink" title="좋다"></a>좋다</h3><pre><code>너 나 좋아하냐? 你喜歡我嗎?__를/을 좋아하다  我喜歡 ____케이크를 좋아요 我喜歡蛋糕너를 좋아요 我喜歡你밥을 먹지 좋아요 我喜歡吃飯歡喜歡喜는 좋다 아니야. 歡喜는 영어 joy 이렇느낌이에요.</code></pre><h3 id="不-죰-어려운"><a href="#不-죰-어려운" class="headerlink" title="不-  (죰 어려운)"></a>不-  (죰 어려운)</h3><p>동사 앞에서 不</p><pre><code>可以 되다 不可以 안 되다 不會這樣做 (ㄅㄨˊ ㄏㄨㄟˋ ㄓㄜˋ ㄧㄤˋ ㄗㄨㄛˋ) 이렇게 사용지 않습니다     會가 많이 의미 있은데.(중요!!)    A가:한국어를 할 수 있어요?? 你會說韓文嗎?? (ㄋㄧˇ , ㄏㄨㄟˋ , ㄕㄨㄛ , ㄏㄢˊ ,  ㄨㄣˊ , ㄇㄚ˙)    B가:네,할 수 었어요. 是,我會說韓文. (ㄨㄛˇ , ㄏㄨㄟˋ , ㄕㄨㄛ  , ㄏㄢˊ , ㄨㄣˊ)    B가:아니요,할 수 없어요. 不(會),我不會說韓文 (ㄨㄛˇ , ㄅㄨˊ , ㄏㄨㄟˋ , ㄕㄨㄛ , ㄏㄢˊ , ㄨㄣˊ)    (n)會議 (ㄏㄨㄟˋ 一ˋ) 회의    (v)開會(ㄎㄞ ㄏㄨㄟˋ) 회의 하다     ! 자신감있으면 마지막에 추가 보충 보세요 </code></pre><h3 id="추가-보충"><a href="#추가-보충" class="headerlink" title="추가 보충"></a>추가 보충</h3><table><thead><tr><th>中文</th><th>한국어</th></tr></thead><tbody><tr><td>我來會會你</td><td>..말로 할게요..</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;챕터-3&quot;&gt;&lt;a href=&quot;#챕터-3&quot; class=&quot;headerlink&quot; title=&quot;챕터 3&quot;&gt;&lt;/a&gt;챕터 3&lt;/h1&gt;&lt;h2 id=&quot;單字-ㄉㄢ-ㄗˋ-단어&quot;&gt;&lt;a href=&quot;#單字-ㄉㄢ-ㄗˋ-단어&quot; class=&quot;headerlink&quot; ti
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>lesson2</title>
+    <link href="http://yoursite.com/2019/05/17/lesson2/"/>
+    <id>http://yoursite.com/2019/05/17/lesson2/</id>
+    <published>2019-05-17T12:24:39.000Z</published>
+    <updated>2019-05-17T12:25:19.632Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="챕터-2"><a href="#챕터-2" class="headerlink" title="챕터 2"></a>챕터 2</h1><h2 id="單字-ㄉㄢ-ㄗˋ-단어"><a href="#單字-ㄉㄢ-ㄗˋ-단어" class="headerlink" title="單字(ㄉㄢ ㄗˋ)  단어"></a>單字(ㄉㄢ ㄗˋ)  단어</h2><table><thead><tr><th>한국어</th><th>中文</th></tr></thead><tbody><tr><td>도시</td><td>都市(ㄉㄨ ㄕˋ),城市(ㄔㄥˊ ㄕˋ)</td></tr><tr><td>이름</td><td>名字(ㄇㄧㄥˊ ㄗˋ)</td></tr><tr><td>남자</td><td>男(남)(ㄋㄢˊ),男生(ㄋㄢˊ ㄕㄥ ),男人(ㄋㄢˊ ㄖㄣˊ)</td></tr><tr><td>여자</td><td>女(여)(ㄋㄩˇ),女生,女人</td></tr><tr><td>사람</td><td>人</td></tr><tr><td>이</td><td>這個(ㄓㄜˋ ㄍㄜ˙),這</td></tr><tr><td>그</td><td>那個(ㄋㄚˋ ㄍㄜ˙),那</td></tr><tr><td>것</td><td>事,事情(ㄕˋ ㄑㄧㄥˊ)</td></tr><tr><td>컴퓨터</td><td>電腦(ㄉㄧㄢˋ ㄋㄠˇ)</td></tr><tr><td>나라</td><td>國家(ㄍㄨㄛˊ ㄐㄧㄚ)</td></tr><tr><td>중국</td><td>中國(ㄓㄨㄥ ㄍㄨㄥˊ)</td></tr><tr><td>대만</td><td>台灣(ㄊㄞˊ ㄨㄢ )</td></tr><tr><td>한국</td><td>韓國(ㄏㄢˊ ㄍㄨㄛˊ)</td></tr><tr><td>일본</td><td>日本(ㄖˋ ㄅㄣˇ)</td></tr><tr><td>의사</td><td>醫生(ㄧ ㄕㄥ)</td></tr><tr><td>학생</td><td>學生(ㄒㄩㄝˊ ㄕㄥ)</td></tr><tr><td>선생님</td><td>老師(ㄌㄠˇ ㄕ )</td></tr><tr><td>네,에</td><td>是(ㄕˋ)</td></tr><tr><td>아니</td><td>不是(ㄅㄨˊ ㄕˋ)</td></tr><tr><td>저,나</td><td>我(ㄨㄛˇ)</td></tr><tr><td>밥</td><td>飯(ㄈㄢˋ)</td></tr><tr><td>너</td><td>你(ㄋㄧˇ)</td></tr><tr><td>당신</td><td>您(ㄋ一ㄣˊ)</td></tr><tr><td>걔,쟤</td><td>남자 他(ㄊㄚ) ,여자 她(ㄊㄚ)</td></tr><tr><td>다들,여러분</td><td>大家(ㄉㄚˋ ㄐㄧㄚ)</td></tr><tr><td>### 인사</td><td></td></tr></tbody></table><pre><code>A:안녕하세요!    你好(ㄏㄠˇ)!B:잘 지내세요? 你好嗎?A:잘 지내고 있어요. (我)過得很好(ㄍㄨㄛˋ ㄉㄜ˙ ㄏㄣˇ ㄏㄠˇ). 다들 안녕하세요! 大家好!(나)저는  ㅇㅇ 입니다. 我是 ㅇㅇ 다들 만나서 반갑습니다. 很高興見到大家 (ㄏㄣˇ ㄍㄠ ㄒㄧㄥˋ ㄐㄧㄢˋ ㄉㄠˋ ㄉㄚˋ ㄐㄧㄚ)    很- 너무          예:            예쁘다  漂亮(ㄆㄧㄠˋ ㄌㄧㄤˋ) , 너무 예쁘다很漂亮            아름답다  美麗(ㄇㄟˇ ㄌ一ˋ) , 너무 아름답다很美麗            귀엽다  可愛(ㄎㄜˇ ㄞˋ) , 너무 귀엽다很可愛    高興 (기분)좋다      見 만나다    여기에서 到가 의미 없어요 그리고 很高興認識(ㄖㄣˋ ㄕˋ)大家 도 돼요 .    認識 인식하다  (見보다 더 잘 아라는것) Nice to see(見) you guys.     Nice to meet(認識) you guys. 이럼 느낌이에요.</code></pre><h3 id="是-嗯-ㄣ-對-ㄉㄨㄟˋ"><a href="#是-嗯-ㄣ-對-ㄉㄨㄟˋ" class="headerlink" title="是 嗯(ㄣ ) 對(ㄉㄨㄟˋ)"></a>是 嗯(ㄣ ) 對(ㄉㄨㄟˋ)</h3><p>대답 할 때 :</p><pre><code>是  는 에(네) 뜻이에요.예 : Q 배고프세요?A 네(是,嗯)Q 당신은 ㅇㅇ 이에요?? 您是 ㅇㅇ 嗎??A 네.나는 ㅇㅇ 입니다. (嗯,我是ㅇㅇ) (是,我是ㅇㅇ)  (對,我是ㅇㅇ) 다 돼요 근대!예 :A가 : 너 ______ ??    B가 : 네?(뭐라고요) &lt;- 이렇게 네 , 是아니야 , (蛤 ㄏㄚˊ)嗯라고해야돼. (그래서 ,대만사람들이 잘 嗯(응) 말하다고.) 예 :A가: 이건 맞아요?? (這是對的嗎)B가: 네,맞아요. 嗯,對(的).  (的유무에 관계없어요)(!! 그래서 전 ㅇㅇ(응응)잘 말해요 ,죄송합니다 )</code></pre><p>주어 뒤에 :</p><pre><code>是 는 영어 is/am/are 느낌이 같은데.예 :(나)저는 OO 입니다. 我是OO(이름)(나)저는 한국사람 입니다. 我是韓國人(나)저는 학생(직업) 입니다. 我是學生근대!I am hungry.전 배 고파요.我肚子餓. ( 是가 없어요 )저 (의) 배가 고파요.</code></pre><h3 id="不-죰-어려운"><a href="#不-죰-어려운" class="headerlink" title="不-  (죰 어려운)"></a>不-  (죰 어려운)</h3><p>동사 앞에서 不</p><pre><code>너 밥 먹어요?? 你 吃 飯 嗎?* 네,전 먹다. 嗯,我 吃.* 아니요,전 안 먹다. 不, 我 不 吃.* 아니요,전 못 먹다. 不, 我 不能(ㄋㄥˊ) 吃.    能 는 영어의 can 느낌이에요.        I can eat. 전 먹고 수 있다.  我能吃        I can not eat.전 먹고 수 없다.  我不能吃A가: 이건 맞아요?? (這是對的嗎?)B가: 아니요. (不對)나머지는 챕터3에서 할게요.</code></pre><h3 id="연습하기"><a href="#연습하기" class="headerlink" title="연습하기"></a>연습하기</h3><pre><code>大家好我是 _____ (이름)我來自(ㄌㄞˊ ㄗˋ) _____ (나라,도시)    저는 ___에서 왔어요. 很高興認識大家</code></pre><h3 id="추가-보충-단어"><a href="#추가-보충-단어" class="headerlink" title="추가 보충 단어"></a>추가 보충 단어</h3><table><thead><tr><th>한국어</th><th>中文</th></tr></thead><tbody><tr><td>의자</td><td>椅子(ㄧˇ ㄗ˙)</td></tr><tr><td>탁자</td><td>桌子(ㄓㄨㄛ˙ ㄗ˙)</td></tr><tr><td>차</td><td>車(ㄔㄜ )</td></tr><tr><td>나무</td><td>樹木(ㄕㄨˋ ㄇㄨˋ),木頭(ㄇㄨˋ ㄊㄡˊ)</td></tr><tr><td>소파</td><td>沙發(ㄕㄚ ㄈㄚ )</td></tr><tr><td>침대</td><td>床(ㄔㄨㄤˊ)</td></tr><tr><td>책</td><td>書(ㄕㄨ)</td></tr><tr><td>문</td><td>門(ㄇㄣˊ)</td></tr><tr><td>시청자</td><td>觀眾(ㄍㄨㄢ ㄓㄨㄥˋ)</td></tr><tr><td>제발</td><td>拜託(ㄅㄞˋ ㄊㄨㄛ)</td></tr><tr><td>안녕하 가세요(계세요)</td><td>再見(ㄗㄞˋ ㄐㄧㄢˋ)</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;챕터-2&quot;&gt;&lt;a href=&quot;#챕터-2&quot; class=&quot;headerlink&quot; title=&quot;챕터 2&quot;&gt;&lt;/a&gt;챕터 2&lt;/h1&gt;&lt;h2 id=&quot;單字-ㄉㄢ-ㄗˋ-단어&quot;&gt;&lt;a href=&quot;#單字-ㄉㄢ-ㄗˋ-단어&quot; class=&quot;headerlink&quot; ti
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
