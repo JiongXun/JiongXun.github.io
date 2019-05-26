@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-26T03:18:27.886Z</updated>
+  <updated>2019-05-26T04:05:41.571Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>챕터 5 (미완성)</title>
+    <link href="http://yoursite.com/lesson5/"/>
+    <id>http://yoursite.com/lesson5/</id>
+    <published>2019-05-26T03:45:21.000Z</published>
+    <updated>2019-05-26T04:05:41.571Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="方向-방향"><a href="#方向-방향" class="headerlink" title="方向 방향"></a>方向 방향</h2><table><thead><tr><th>한국어</th><th>中文</th><th>보충하기</th></tr></thead><tbody><tr><td>뚱난시베</td><td>東南西北(ㄉㄨㄥ ㄋㄢˊ ㄒㄧ ㄅㄟˇ)</td><td></td></tr><tr><td>위</td><td>上(ㄕㄤˋ)</td><td>위에 上面</td></tr><tr><td>아래</td><td>下(ㄒㄧㄚˋ)</td><td>아래에 下面</td></tr><tr><td>왼쪽</td><td>左</td><td>완쪽에 左邊</td></tr><tr><td>오른쪽</td><td>右</td><td>오른쪽에 右邊</td></tr><tr><td>밖</td><td>外</td><td>밖에 外面</td></tr><tr><td>안</td><td>裡</td><td>안에 裡面</td></tr><tr><td>앞</td><td>前</td><td>앞에 前面</td></tr><tr><td>옆</td><td>旁</td><td>옆에 旁邊</td></tr><tr><td>뒤</td><td>後</td><td>뒤에 後面</td></tr></tbody></table>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;方向-방향&quot;&gt;&lt;a href=&quot;#方向-방향&quot; class=&quot;headerlink&quot; title=&quot;方向 방향&quot;&gt;&lt;/a&gt;方向 방향&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;한국어&lt;/th&gt;
+&lt;th&gt;中文&lt;/th&gt;
+&lt;th&gt;보충하기&lt;/th&gt;
+&lt;
+      
+    
+    </summary>
+    
+      <category term="교재" scheme="http://yoursite.com/categories/%EA%B5%90%EC%9E%AC/"/>
+    
+    
+      <category term="교재" scheme="http://yoursite.com/tags/%EA%B5%90%EC%9E%AC/"/>
+    
+      <category term="방향" scheme="http://yoursite.com/tags/%EB%B0%A9%ED%96%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>챕터 4</title>
